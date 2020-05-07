@@ -1,4 +1,4 @@
-# Project Support Pie Chart
+# Project Support Bar - HorizontalBar Chart
 
 Creation of plugin to be able to alter the configurations of the library js chart
 
