@@ -1,6 +1,6 @@
 {
-  "name": "support-bar-chart",
-  "version": "2.0.4",
+  "name": "support-bar-chart-pld",
+  "version": "1.0.0",
   "description": "",
   "main": "dist/support-bar-chart.min.js",
   "scripts": {

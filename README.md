@@ -27,7 +27,7 @@ You have to import with the following code
 // Import
 import { Component } from '@angular/core';
 import * as Chart from 'chart.js'
-import 'support-bar-chart';
+import 'support-bar-chart-pld';
 ```
 ### Step 2
 
